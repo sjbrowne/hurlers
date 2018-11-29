@@ -1,0 +1,5 @@
+<game type="R" local_game_time="19:10" game_pk="529841" game_time_et="07:10 PM" gameday_sw="P">
+	<team type="home" code="nyn" file_code="nym" abbrev="NYM" id="121" name="NY Mets" name_full="New York Mets" name_brief="Mets" w="17" l="10" division_id="" league_id="104" league="NL"/>
+	<team type="away" code="atl" file_code="atl" abbrev="ATL" id="144" name="Atlanta" name_full="Atlanta Braves" name_brief="Braves" w="17" l="11" division_id="" league_id="104" league="NL"/>
+	<stadium id="3289" name="Citi Field" venue_w_chan_loc="USNY0504" location="Flushing, NY"/>
+</game>

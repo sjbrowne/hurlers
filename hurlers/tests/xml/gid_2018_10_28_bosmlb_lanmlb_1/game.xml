@@ -1,0 +1,5 @@
+<!--Copyright 2018 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt--><game type="W" local_game_time="17:15" game_pk="563411" game_time_et="08:15 PM" gameday_sw="P">
+	<team type="home" code="lan" file_code="la" abbrev="LAD" id="119" name="LA Dodgers" name_full="Los Angeles Dodgers" name_brief="Dodgers" w="1" l="4" division_id="" league_id="104" league="NL"/>
+	<team type="away" code="bos" file_code="bos" abbrev="BOS" id="111" name="Boston" name_full="Boston Red Sox" name_brief="Red Sox" w="4" l="1" division_id="" league_id="103" league="AL"/>
+	<stadium id="22" name="Dodger Stadium" venue_w_chan_loc="USCA0638" location="Los Angeles, CA"/>
+</game>
