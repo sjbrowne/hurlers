@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 
 setup(
     name='hurlers',
-    version='0.1.0',
-    description='Store and manipulate mlbam pitch data.',
+    version='0.1.1',
+    description='Store mlbam pitch data.',
     author='S.J. Browne',
     classifiers=[
         'Development Status :: 3 - Alpha',
